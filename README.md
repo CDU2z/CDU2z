@@ -2,10 +2,6 @@
 
 ### 🚀 Techn Lead Full Stack | JavaScript & .NET
 
-<img src="https://avatars.githubusercontent.com/u/24258344?v=4" width="120" alt="Profile Avatar" />
-
----
-
 ## 🛠️ Tecnologías que uso
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
