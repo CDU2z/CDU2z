@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Uriel López
 
-### 🚀 Techn Lead Full Stack | JavaScript & .NET
+### 🚀 Techn Lead Full Stack | JavaScript, .NET & Jr DevOps
 
 ## 🛠️ Tecnologías que uso
 
