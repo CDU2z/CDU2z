@@ -93,9 +93,9 @@ Me interesa especialmente trabajar en:
 
 # 📈 Estadísticas de GitHub
 
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=cdu2z&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cdu2z&show_icons=true&theme=transparent)
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=cdu2z\&layout=compact\&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdu2z&layout=compact&theme=transparent)
 
 ---
 
